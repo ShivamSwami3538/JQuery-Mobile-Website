@@ -1,1 +1,1 @@
-# -JQuery-Mobile-Website
+# JQuery-Mobile-Website
